@@ -6,6 +6,9 @@ Después de hacer varios proyectos con codigo sin AI he de decir que la AI ayuda
 
 La subo y la muestro para tenerla como meta de decir yo he podido hacer esto mismo sola, como otras que he creado sin ayuda :)
 
+Parece que está hecha con Wordpress, pero no, está creada con HTML,CSS,javaScript y porsupuesto la AI.
 La puedes ver en Netlify
 
 https://anecaevo.netlify.app
+
+![imagen-entrada-web](Captura%20de%20pantalla%202026-10-13%20185954.png)
